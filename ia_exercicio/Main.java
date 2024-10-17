@@ -13,8 +13,8 @@ import java.util.Map;
 import java.util.HashMap;
 
 public class Main {
-    private static final String MODEL_URL = "http://a4d2c866-e468-4128-adae-bb1872201e0a.eastus2.azurecontainer.io/score";
-    private static final String API_KEY = "pTVhXcuJkI3I7bYrjyiwnxcwPvH7T3d";
+    private static final String MODEL_URL = "http://a8937fd2-0e4e-4390-963f-88e6bca52736.brazilsouth.azurecontainer.io/score";
+    private static final String API_KEY = "VfaG3C5WfCcHsLoG3j6vbjvhTzOmhNVP";
     
 
     public static void main(String[] Args) throws Exception {
